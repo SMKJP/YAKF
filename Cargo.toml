@@ -1,0 +1,6 @@
+[package]
+name = "YAKF"
+version = "0.1.0"
+authors = ["Biacco42 <biacco42@gmail.com>"]
+
+[dependencies]
